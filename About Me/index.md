@@ -1,6 +1,6 @@
-[homepage](~/index.md)
+[homepage](https://patrickfurman.github.io/)
 
 
-![Profile picture](~/res/profile_picture.jpg)
+![Profile picture](https://patrickfurman.github.io/res/profile_picture.jpg)
 
-This is a test
+I'm a current 3rd year student at Loyola University Chicago studying computer science and statistics.
